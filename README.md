@@ -57,7 +57,7 @@ python Linux_Command_Manual_Tool.py
 - **Beginner Friendly**: Perfect for people new to Linux
 
 ## Author 👨‍💻
-Created by **good123453hey**
+Created by **good123453**
 
 ## License 📄
 MIT License - Feel free to use and modify!
