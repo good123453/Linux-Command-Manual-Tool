@@ -13,7 +13,7 @@ A comprehensive Linux command reference tool that helps beginners learn terminal
 - Perfect for Linux beginners
 
 ## Command Categories 📚
-1. **Navigation & Directory Commands** - pwd, cd, ls, ls -la
+1. **Navigation & Directory Commands** - pwd, cd, ls, ls -la 
 2. **System & User Information** - whoami, uname, history, clear
 3. **Network Commands** - ifconfig, ip a, ping, traceroute
 4. **File & Directory Management** - mkdir, rmdir, rm, cp, mv
